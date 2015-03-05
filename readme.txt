@@ -23,7 +23,7 @@ There are a few options for installing and setting up this plugin.
 = Upload Manually =
 
 1. Download and unzip the plugin
-2. Upload the ‘Hover-Board-Direction-Awear-Hover-Effect-Wordpress-Plugin-master’ folder into the '/wp-content/plugins/' directory
+2. Upload the ‘hover-board-direction-aware-hover-effect’ folder into the '/wp-content/plugins/' directory
 3. Go to the Plugins admin page and activate the plugin
 
 = Install Via Admin Area =
